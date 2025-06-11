@@ -1,6 +1,15 @@
 
 - # 💫 About Me:
-👋 Hi, I’m @mohssine32<br>👀 I’m interested in web and mobile developement .<br>📫 contact me :mohssinem32@gmail.com<br>🔭 I’m currently working on e-commerce project<br>I’m looking for help with internshep<br>🌱 I’m currently learning new stuff<br>💬 Ask me about anything<br>⚡ Fun fact : I stay in the front of my computer all day
+ Hi, I’m @mohssine32
+👀 I'm passionate about web and mobile development
+📫 Contact me: mohssinem32@gmail.com
+🔭 I’m currently working on an e-commerce project
+🎯 Looking for internship opportunities to grow and learn
+🌱 Currently learning new technologies and best practices
+💬 Feel free to ask me anything — I love sharing knowledge!
+⚡ Fun fact: I can spend hours coding without realizing it 😄
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/____momed____/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-mouhssine/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mohssinem32) 
