@@ -1,12 +1,13 @@
 
 - # 💫 About Me:
  Hi, I’m @mohssine32
-👀 I'm passionate about web and mobile development
-📫 Contact me: mohssinem32@gmail.com
-🔭 I’m currently working on an e-commerce project
-🎯 Looking for internship opportunities to grow and learn
-🌱 Currently learning new technologies and best practices
-💬 Feel free to ask me anything — I love sharing knowledge!
+👀 👋 Hi, I’m @mohssine32<br>
+👀 I'm passionate about web and mobile development<br>
+📫 Contact me: **mohssinem32@gmail.com**<br>
+🔭 I’m currently working on an **e-commerce project**<br>
+🎯 Looking for **internship opportunities** to grow and learn<br>
+🌱 Currently learning new technologies and best practices<br>
+💬 Feel free to ask me anything — I love sharing knowledge!<br>
 ⚡ Fun fact: I can spend hours coding without realizing it 😄
 
 
